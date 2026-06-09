@@ -8,6 +8,15 @@
 
 <br/>
 
+<a href="https://zerogate.co">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/zerogate-white.png" />
+    <img src="assets/zerogate-black.png" alt="Zero Gate" width="96" />
+  </picture>
+</a>
+
+<br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&pause=1200&color=A1A1AA&center=true&vCenter=true&width=520&lines=Founder+%40+Zero+Gate;Full-stack+%26+AI+engineer;I+ship+software+with+real+business+impact." alt="typing" />
 </a>
