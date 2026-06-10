@@ -3,7 +3,7 @@
 <div align="center">
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:18181b,100:3f3f46&height=220&section=header&text=David%20%C2%B7%20Builder&fontSize=46&fontColor=f4f4f5&fontAlignY=38&desc=AI%20Solutions%20%26%20Business%20Process%20Automation&descSize=16&descAlignY=60&descColor=a1a1aa" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:18181b,100:3f3f46&height=220&section=header&text=David%20%C2%B7%20Builder&fontSize=46&fontColor=f4f4f5&fontAlignY=38&animation=fadeIn&desc=Building%20AI%20solutions%20%26%20automation&descAlignY=51&descAlign=50&descFontSize=17" alt="header" />
 </a>
 
 <br/>
@@ -18,7 +18,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&pause=1200&color=A1A1AA&center=true&vCenter=true&width=520&lines=Founder+%40+Zero+Gate;Full-stack+%26+AI+engineer;I+ship+software+with+real+business+impact." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&pause=1200&color=A1A1AA&center=true&vCenter=true&width=520&lines=Founder+%40+Zero+Gate;Full-stack+%26+AI+engineer;Custom+software+builder;LLM+integration+specialist" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -113,12 +113,12 @@ const david = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=69kingDavid69&show_icons=true&hide_border=true&bg_color=050505&title_color=f4f4f5&text_color=a1a1aa&icon_color=d4d4d8" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=69kingDavid69&layout=compact&hide_border=true&bg_color=050505&title_color=f4f4f5&text_color=a1a1aa" alt="langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=69kingDavid69&show_icons=true&hide_border=true&bg_color=050505&title_color=f4f4f5&text_color=a1a1aa&icon_color=d4d4d8" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=69kingDavid69&layout=compact&hide_border=true&bg_color=050505&title_color=f4f4f5&text_color=a1a1aa" alt="Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=69kingDavid69&hide_border=true&background=050505&stroke=27272a&ring=d4d4d8&fire=f4f4f5&currStreakLabel=f4f4f5&sideLabels=a1a1aa&dates=52525b&currStreakNum=f4f4f5&sideNums=f4f4f5&dayLabels=a1a1aa" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=69kingDavid69&hide_border=true&background=050505&stroke=27272a&ring=d4d4d8&fire=f4f4f5&currStreakLabel=f4f4f5&sideLabels=a1a1aa&dates=52525b&currStreakNum=a1a1aa" alt="Streak Stats" />
 
 </div>
 
