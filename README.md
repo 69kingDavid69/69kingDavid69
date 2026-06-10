@@ -3,12 +3,6 @@
 <div align="center">
 
 <a href="https://zerogate.co">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:18181b,100:3f3f46&height=220&section=header&text=David%20%C2%B7%20AI%20Prompt%20Engineer&fontSize=38&fontColor=f4f4f5&fontAlignY=36&animation=fadeIn&desc=AI%20Solutions%20%26%20Business%20Process%20Automation&descSize=16&descAlignY=56&descColor=a1a1aa" alt="header" width="100%" />
-</a>
-
-<br/>
-
-<a href="https://zerogate.co">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/69kingDavid69/69kingDavid69/main/assets/zerogate-white.png" />
     <img src="https://raw.githubusercontent.com/69kingDavid69/69kingDavid69/main/assets/zerogate-black.png" alt="Zero Gate" width="96" />
